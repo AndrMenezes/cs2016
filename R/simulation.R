@@ -1,6 +1,5 @@
-source("/home/andrefelipe/Dropbox/UEM/3° Série/Estatística Computacional II/Distribuição Gama Inversa/Scripts/gamainv.R")
-source("/home/andrefelipe/Dropbox/UEM/3° Série/Estatística Computacional II/Distribuição Gama Inversa/Scripts/métodos_estimação.R")
-setwd("/home/andrefelipe/Dropbox/UEM/3° Série/Estatística Computacional II/Distribuição Gama Inversa/Scripts/sim2")
+source("gamainv.R")
+source("métodos_estimação.R")
 
 B = 10000
 alpha = c(1, 2, 3, 4)
