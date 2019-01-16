@@ -8,7 +8,7 @@
 
 This work presents five methods for estimation the paramters of Inverse Gamma distribution. 
 The theoretical and computation aspects of the methods are widely discussed. 
-Monte Carlo simulation are perform in order to compare the estimation methods. 
+Monte Carlo simulations are perform in order to compare the estimation methods. 
 
 
 ***
