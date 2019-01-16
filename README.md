@@ -12,9 +12,9 @@ Monte Carlo simulation are perform in order to compare the estimation methods.
 
 
 ***
-> [Report](https://github.com/AndrMenezes/nlm2017/raw/master/docs/work1.pdf)
+> [Report](https://github.com/AndrMenezes/cs2016/raw/master/report.pdf)
 
-> [R scripts](https://github.com/AndrMenezes/nlm2017/blob/master/scripts/R/analise-NLR1.R)
+> [R scripts](https://github.com/AndrMenezes/cs2016/blob/master/R)
 
-> [SAS scripts](https://github.com/AndrMenezes/nlm2017/blob/master/scripts/SAS/analise-NLR1.sas)
+> [SAS scripts](https://github.com/AndrMenezes/cs2016/blob/master/SAS)
 ***
